@@ -4,6 +4,15 @@
 
 我是一名专注于**嵌入式系统**、**计算机视觉**和**人工智能**的开发者，热衷于将前沿技术应用于实际场景，解决真实世界的问题。
 
+### 🛠️ 技术栈 (Tech Stack)
+
+<p align="left">
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=git&logoColor=white" />
+</p
+---
+
 ## 🚀 项目经历
 
 ### 🔌 嵌入式与物联网
@@ -38,5 +47,3 @@
 ## 📊 GitHub 统计
 
 ![lcd955's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcd955&show_icons=true&theme=radical)
-
-
