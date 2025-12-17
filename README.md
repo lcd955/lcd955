@@ -36,7 +36,5 @@
 - 工业智能巡检系统
 
 ## 📊 GitHub 统计
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcd955&layout=compact&theme=gruvbox" alt="Languages" />
-
 ![lcd955's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcd955&show_icons=true&theme=radical)
 
